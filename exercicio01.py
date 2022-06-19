@@ -1,4 +1,4 @@
-import timeit
+git import timeit
 import time
 
 def buscaSequencial(list, item):
